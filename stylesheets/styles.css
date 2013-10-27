@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:300italic,700italic,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Caption:300italic,700italic,300,700);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700|PT+Sans+Narrow|PT+Sans+Caption&subset=latin,cyrillic-ext,latin-ext,cyrillic);
+
 
 body {
   padding:50px;
