@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:20px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:24px/1.8 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -21,6 +21,10 @@ h1, h2, h3 {
 }
 
 h1 {
+  font-size:42px;
+}
+
+h3 {
   font-size:42px;
 }
 
@@ -162,7 +166,7 @@ header ul a strong {
 section {
   width:640px;
   float:left;
-  padding-top:50px;
+  padding-top:100px;
   padding-bottom:50px;
 }
 
