@@ -175,10 +175,11 @@ small {
 }
 
 hr {
+  min-width: 75%;
   border:0;
   background:#e5e5e5;
   height:2px;
-  margin:15% 0 20px;
+  margin:20ps 0 20px;
 }
 
 footer {
