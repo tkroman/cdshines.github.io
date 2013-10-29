@@ -167,7 +167,6 @@ header ul a strong {
 }
 
 section {
-  margin-top: 5%;
   float:left;
   padding-bottom:50px;
 }
@@ -177,7 +176,6 @@ small {
 }
 
 hr {
-  position: absolute;
   width: 75%;
   border:0;
   background:#e5e5e5;
