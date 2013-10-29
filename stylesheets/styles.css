@@ -50,7 +50,8 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  float: left;
+  width:75%px;
   margin:0 auto;
 }
 
