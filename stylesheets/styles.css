@@ -164,9 +164,9 @@ header ul a strong {
 }
 
 section {
-  width:640px;
+  width:75%;
   float:left;
-  padding-top:100px;
+  margin-top:100px;
   padding-bottom:50px;
 }
 
@@ -181,12 +181,12 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-}
+/*footer {*/
+/*  width:270px;*/
+/*  float:left;*/
+/*  position:fixed;*/
+/*  bottom:50px;*/
+/*}*/
 
 @media print, screen and (max-width: 960px) {
   
