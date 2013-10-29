@@ -51,6 +51,7 @@ a small {
 
 .wrapper {
   float: left;
+  left: 10%;
   width:75%px;
   margin:0 auto;
 }
@@ -167,7 +168,6 @@ header ul a strong {
 section {
   float:left;
   margin-top:40%;
-  margin-left:15%;
   padding-bottom:50px;
 }
 
