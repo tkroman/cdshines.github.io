@@ -95,11 +95,11 @@ img {
   max-width:100%;
 }
 
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-}
+/*header {*/
+/*  width:270px;*/
+/*  float:left;*/
+/*  position:fixed;*/
+/*}*/
 
 header ul {
   list-style:none;
@@ -160,8 +160,9 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:640px;
   float:left;
+  padding-top:50px;
   padding-bottom:50px;
 }
 
