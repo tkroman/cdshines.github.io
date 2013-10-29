@@ -26,7 +26,7 @@ h1 {
 
 h3 {
   font-size:42px;
-  margin-top: 15%;
+  margin-top: 20%;
 }
 
 h2 {
@@ -176,7 +176,8 @@ small {
 }
 
 hr {
-  min-width: 75%;
+  position: absolute;
+  width: 75%;
   border:0;
   background:#e5e5e5;
   height:2px;
